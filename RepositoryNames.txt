@@ -1,1 +1,1 @@
-https://github.com/hdaulatani/AutomationTraining.git
+https://github.com/hdaulatani/AutomationTraining.git      (this is ssh url)
